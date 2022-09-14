@@ -21,11 +21,15 @@
     justify-content: space-between;
 }
 
-.links {
+.signup {
+    margin-left: auto;
+}
+
+/* .links {
     border: 1px solid #fff;
     display: flex;
     justify-content: flex-end;
-}
+} */
 
 .login {
     margin-left: 20px;
@@ -101,3 +105,14 @@
 }
 
 /* LEFT AT FOOTER PART */
+
+.footer-three,
+.footer-one {
+    background-color: #5995DA;
+    flex: initial;
+    width: 300px;
+}
+
+.f3i {
+    font-size: 30px;
+}
